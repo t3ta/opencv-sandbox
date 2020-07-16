@@ -51,3 +51,5 @@ _deps
 *-prefix/
 
 .vscode/
+images/*
+build/*
